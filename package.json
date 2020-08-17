@@ -27,7 +27,7 @@
   "dependencies": {
     "async": "^1.3.0",
     "htmlcoind-rpc": "git://github.com/HTMLCOIN/htmlcoind-rpc.git",
-    "htmlcoin-lib": "git://github.com/HTMLCOIN/htmlcoin-lib.git#master",
+    "htmlcoin-lib": "git://github.com/machado-rev/htmlcoin-lib.git#master",
     "bitcore-lib": "^0.13.13",
     "body-parser": "^1.13.3",
     "colors": "^1.1.2",
